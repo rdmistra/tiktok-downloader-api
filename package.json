@@ -1,0 +1,32 @@
+{
+    "name": "tiktok-downloader-new",
+    "version": "1.0.0",
+    "description": "A simple TikTok downloader library based on API, super lightweight and fast, and if any issues arise, you don't need to update the library.",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+      
+    },
+    "keywords": [
+      "tiktokdl",
+      "tiktokdownloader",
+      "downloader",
+      "scraper",
+      "ttdl",
+      "tiktok"
+    ],
+    "author": "RDMS",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^1.5.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/rdmistra/tiktok-downloader-new.git"
+    },
+    "bugs": {
+      "url": "https://github.com/rdmistra/tiktok-downloader-new/issues"
+    },
+    "homepage": "https://github.com/rdmistra/tiktok-downloader-new#readme"
+  }
+  
